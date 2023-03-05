@@ -19,7 +19,9 @@ For suggestions on what to study first, open the Chrome DevTools by pressing Com
 
 Google Fonts - https://fonts.google.com/
 
-What is REM in CSS? - freeCodeCamp - https://www.freecodecamp.org/news/what-is-rem-in-css-rem-unit-font-size-padding-height-and-more/
+What is REM in CSS? - https://www.freecodecamp.org/news/what-is-rem-in-css-rem-unit-font-size-padding-height-and-more/
+
+Favicon Ico - https://www.metatags.org/seo-tips/design-tips/favicon-ico/
 
 ## License
 
